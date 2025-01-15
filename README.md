@@ -54,12 +54,20 @@ Install any missing libraries automatically by running the script.
 ## Sample Visualizations
 ### 1. World Map of FOB Values
 Displays FOB values in millions of dollars for each destination country.
+![mapa](https://github.com/user-attachments/assets/a4c24a25-6a1b-4082-a9d2-e0bd8018d982)
 
 ### 2. Top 10 Countries by FOB Values
 A bar chart of the top destinations.
+![top_10_paises_fob](https://github.com/user-attachments/assets/cd0b1459-63e1-4059-b73a-94884b3e1e03)
+
 
 ### 3. Annual Trends
 Combined line-bar charts for annual volumes and FOB values.
+![faturamento_anual](https://github.com/user-attachments/assets/38ec00fb-bc0a-4e6b-811d-0e83b0eba5d2)
+
+### 4. Top 10 Exporters
+A bar chart of the top exporters.
+![top_10_exportadores](https://github.com/user-attachments/assets/ba1a5133-e4ad-4cb9-a6d4-0ce0f5e5235a)
 
 ---
 
